@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="78" started-at="2016-05-15T22:11:30Z" finished-at="2016-05-15T22:11:30Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="78" started-at="2016-05-15T22:11:30Z" finished-at="2016-05-15T22:11:30Z">
+      <class name="SeleniumTests.Class2">
+        <test-method status="PASS" signature="Login()[pri:0, instance:SeleniumTests.Class2@4590c9c3]" name="Login" is-config="true" duration-ms="15" started-at="2016-05-16T03:41:30Z" finished-at="2016-05-16T03:41:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="Search()[pri:1, instance:SeleniumTests.Class2@4590c9c3]" name="Search" duration-ms="16" started-at="2016-05-16T03:41:30Z" finished-at="2016-05-16T03:41:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Search -->
+        <test-method status="PASS" signature="AdvancedSearch()[pri:2, instance:SeleniumTests.Class2@4590c9c3]" name="AdvancedSearch" duration-ms="16" started-at="2016-05-16T03:41:30Z" finished-at="2016-05-16T03:41:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AdvancedSearch -->
+        <test-method status="PASS" signature="ReplaceValue()[pri:3, instance:SeleniumTests.Class2@4590c9c3]" name="ReplaceValue" duration-ms="0" started-at="2016-05-16T03:41:30Z" finished-at="2016-05-16T03:41:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ReplaceValue -->
+        <test-method status="PASS" signature="Logout()[pri:0, instance:SeleniumTests.Class2@4590c9c3]" name="Logout" is-config="true" duration-ms="0" started-at="2016-05-16T03:41:30Z" finished-at="2016-05-16T03:41:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logout -->
+      </class> <!-- SeleniumTests.Class2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
